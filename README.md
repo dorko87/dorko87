@@ -56,11 +56,13 @@ Docker Compose · Dockhand · Infisical · CI/CD · AI-agent workflows
 
 ## Selected projects
 
+### [Homelab Infrastructure](https://github.com/dorko87/homelab-infrastructure)
+
+A public overview of my independent infrastructure project, including Git-based deployments, CI/CD quality gates, observability, recovery and the decisions behind the migration to Dockhand.
+
 ### [Israeli Sure Importer](https://github.com/dorko87/israeli-sure-importer)
 
 A self-hosted integration that imports Israeli bank and credit card transactions into Sure Finance. It runs in Docker and includes scheduled imports, REST API integration, duplicate detection, dry-run mode and failure notifications.
-
-I'm also interested in documenting more of my homelab, including the decisions behind its architecture and the problems I've encountered along the way.
 
 ---
 
